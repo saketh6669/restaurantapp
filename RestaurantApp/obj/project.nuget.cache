@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "m7xrOw9N3w1BBLe+sSYgdu+v6ITV8nOyYLOj44MP1K4UA2cEn3qbZt8mmhUKyOHAF/1Ze9Qqqr/GKVpkzLsoWA==",
+  "success": true,
+  "projectFilePath": "/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/RestaurantApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/ksaketh/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ksaketh/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/ksaketh/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ksaketh/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/ksaketh/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

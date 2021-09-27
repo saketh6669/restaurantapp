@@ -1,0 +1,16 @@
+/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/bin/Debug/netstandard2.0/RestaurantApp.deps.json
+/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/bin/Debug/netstandard2.0/RestaurantApp.dll
+/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/bin/Debug/netstandard2.0/ref/RestaurantApp.dll
+/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/bin/Debug/netstandard2.0/RestaurantApp.pdb
+/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/RestaurantApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/RestaurantApp.AssemblyInfoInputs.cache
+/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/RestaurantApp.AssemblyInfo.cs
+/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/RestaurantApp.csproj.CoreCompileInputs.cache
+/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/RestaurantApp.dll
+/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/ref/RestaurantApp.dll
+/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/RestaurantApp.pdb
+/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/RestaurantApp.csproj.AssemblyReference.cache
+/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/OrderPage.xaml.g.cs

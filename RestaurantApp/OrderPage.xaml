@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:Vm="clr-namespace:RestaurantApp.ViewModel"
+    x:Class="RestaurantApp.OrderPage" NavigationPage.HasNavigationBar="False">
+
+    <ContentPage.BindingContext>
+        <Vm:OrderViewModel x:Name="vm"/>
+    </ContentPage.BindingContext>
+
+    <Grid RowDefinitions="130,*">
+        <BoxView Grid.RowSpan="2">
+            <BoxView.Background>
+                <LinearGradientBrush>
+                    <GradientStop Color="LightYellow" Offset="0"/>
+                    <GradientStop Color="#393837" Offset="1"/>
+                </LinearGradientBrush>
+            </BoxView.Background>
+        </BoxView>
+        <Grid>
+            <StackLayout Orientation="Horizontal" Margin="25" Spacing="20" VerticalOptions="Start">
+                <ImageButton Source="back" BackgroundColor="Transparent" WidthRequest="20" HeightRequest="20"
+                             HorizontalOptions="Start" VerticalOptions="Center" Command="{Binding BackCommand}"/>
+                <Label Text="MENU" TextColor="Black" FontSize="20" FontAttributes="Bold" VerticalOptions="Start"/>
+
+            </StackLayout>
+        </Grid>
+        <CarouselView Grid.Row="1" ItemsSource="{Binding Menulist}" PeekAreaInsets="80" Margin="0,-20,0,20" PositionChanged="CarouselPositionChanged">
+            
+            <CarouselView.ItemsLayout>
+                <LinearItemsLayout Orientation="Horizontal" ItemSpacing="10"/>
+            </CarouselView.ItemsLayout>
+            <CarouselView.ItemTemplate>
+                <DataTemplate>
+                    <Grid HeightRequest="320" WidthRequest="112" HorizontalOptions="Center">
+                        <Grid RowDefinitions="*,*,*" WidthRequest="175" HorizontalOptions="Center" Margin="0,50">
+                            <BoxView Grid.RowSpan="3" BackgroundColor="#A5A5A5" CornerRadius="35"/>
+                            <StackLayout Grid.Row="1" Padding="30" VerticalOptions="Center">
+                                <Label Text="{Binding Title}" TextColor="Black" FontSize="18" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+                                <Label Text="{Binding Description}" TextColor="Black" FontSize="14" HorizontalTextAlignment="Center"/>
+                            </StackLayout>
+                            <StackLayout Grid.Row="2" Spacing="20" Padding="20" VerticalOptions="End">
+                                <Label Text="{Binding Price}" TextColor="Black" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center"/>
+                                <Button Text="ADD" TextColor="WHITE" BackgroundColor="Gold" WidthRequest="100" HeightRequest="50"
+                                        CornerRadius="20" HorizontalOptions="Center"/>
+
+                            </StackLayout>
+
+                        </Grid>
+                        <Grid HeightRequest="210" WidthRequest="210" VerticalOptions="Start" HorizontalOptions="Center">
+                            <Image x:Name="MenuImg" Source="{Binding Image}" HeightRequest="195" WidthRequest="195" HorizontalOptions="Center"
+                                   VerticalOptions="Center"/>
+                        </Grid>
+                        
+                    </Grid>
+                </DataTemplate>
+            </CarouselView.ItemTemplate>
+            </CarouselView>
+
+    </Grid>
+</ContentPage>
