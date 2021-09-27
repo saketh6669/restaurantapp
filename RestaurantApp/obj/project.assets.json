@@ -539,11 +539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/RestaurantApp.csproj",
+      "projectUniqueName": "/Users/ksaketh/Projects/restaurantApp2/RestaurantApp/RestaurantApp.csproj",
       "projectName": "RestaurantApp",
-      "projectPath": "/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/RestaurantApp.csproj",
+      "projectPath": "/Users/ksaketh/Projects/restaurantApp2/RestaurantApp/RestaurantApp.csproj",
       "packagesPath": "/Users/ksaketh/.nuget/packages/",
-      "outputPath": "/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/obj/",
+      "outputPath": "/Users/ksaketh/Projects/restaurantApp2/RestaurantApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ksaketh/.config/NuGet/NuGet.Config"

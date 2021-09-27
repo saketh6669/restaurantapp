@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A28DA62D-695C-46C5-9E5E-F4D5C030C742}|Default">
+  <MonoDevelop.Ide.ItemProperties.RestaurantApp.Android PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestaurantApp/MainPage.xaml">
+    <Files>
+      <File FileName="RestaurantApp/MainPage.xaml" Line="11" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RestaurantApp" expanded="True">
+            <Node name="RestaurantApp" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

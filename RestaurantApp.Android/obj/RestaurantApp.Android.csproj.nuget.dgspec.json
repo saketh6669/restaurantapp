@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ksaketh/Projects/RestaurantApp/RestaurantApp.Android/RestaurantApp.Android.csproj": {}
+    "/Users/ksaketh/Projects/restaurantApp2/RestaurantApp.Android/RestaurantApp.Android.csproj": {}
   },
   "projects": {
-    "/Users/ksaketh/Projects/RestaurantApp/RestaurantApp.Android/RestaurantApp.Android.csproj": {
+    "/Users/ksaketh/Projects/restaurantApp2/RestaurantApp.Android/RestaurantApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ksaketh/Projects/RestaurantApp/RestaurantApp.Android/RestaurantApp.Android.csproj",
+        "projectUniqueName": "/Users/ksaketh/Projects/restaurantApp2/RestaurantApp.Android/RestaurantApp.Android.csproj",
         "projectName": "RestaurantApp.Android",
-        "projectPath": "/Users/ksaketh/Projects/RestaurantApp/RestaurantApp.Android/RestaurantApp.Android.csproj",
+        "projectPath": "/Users/ksaketh/Projects/restaurantApp2/RestaurantApp.Android/RestaurantApp.Android.csproj",
         "packagesPath": "/Users/ksaketh/.nuget/packages/",
-        "outputPath": "/Users/ksaketh/Projects/RestaurantApp/RestaurantApp.Android/obj/",
+        "outputPath": "/Users/ksaketh/Projects/restaurantApp2/RestaurantApp.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/RestaurantApp.csproj": {
-                "projectPath": "/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/RestaurantApp.csproj"
+              "/Users/ksaketh/Projects/restaurantApp2/RestaurantApp/RestaurantApp.csproj": {
+                "projectPath": "/Users/ksaketh/Projects/restaurantApp2/RestaurantApp/RestaurantApp.csproj"
               }
             }
           }
@@ -48,14 +48,14 @@
         }
       }
     },
-    "/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/RestaurantApp.csproj": {
+    "/Users/ksaketh/Projects/restaurantApp2/RestaurantApp/RestaurantApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/RestaurantApp.csproj",
+        "projectUniqueName": "/Users/ksaketh/Projects/restaurantApp2/RestaurantApp/RestaurantApp.csproj",
         "projectName": "RestaurantApp",
-        "projectPath": "/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/RestaurantApp.csproj",
+        "projectPath": "/Users/ksaketh/Projects/restaurantApp2/RestaurantApp/RestaurantApp.csproj",
         "packagesPath": "/Users/ksaketh/.nuget/packages/",
-        "outputPath": "/Users/ksaketh/Projects/RestaurantApp/RestaurantApp/obj/",
+        "outputPath": "/Users/ksaketh/Projects/restaurantApp2/RestaurantApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ksaketh/.config/NuGet/NuGet.Config"
